@@ -12,7 +12,9 @@
 
 - 🔭 I have 1.5 years of experience with Web Technologies and
 
-- 🌱 2.5 years of combined technical experience including technical writing and teaching 
+- 🌱 2 years of experience in technical writing 
+
+- 👨‍🏫 0.5+ years of experience in mentoring, guiding and teaching programmers
 
 - 👯 I'm passionate about programming, problem solving and contributing to Open Source Projects
 
@@ -80,6 +82,14 @@
 
 
 ---
+
+ ### 📝 Recent Posts as a part of Community Writing Program
+  
+  - [Creating Hugo Themes](https://draft.dev/learn/platforms/creating-hugo-themes)
+
+  - [Building a MonoRepo with Bazel](https://earthly.dev/blog/monorepo-with-bazel/)
+  
+  - [Single Source of Truth: Definition and Examples](https://www.plutora.com/blog/single-source-of-truth-ssot)
 
   ### 📕 My Medium Posts
 
