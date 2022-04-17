@@ -10,13 +10,13 @@
 
   
 
-- 🔭 I have 1.5 years of experience with Web Technologies and
+- 🔭 I have 3 years of experience with Web Technologies and
 
 - 🌱 2 years of experience in technical writing 
 
-- 👨‍🏫 0.5+ years of experience in mentoring, guiding and teaching programmers
+- 👨‍🏫 I have also mentored, guided and taught many young programmers
 
-- 👯 I'm passionate about programming, problem solving and contributing to Open Source Projects
+- 👯 I'm passionate about developer relations, problem solving and building awesome stuff
 
 - 🥅 Want to hire a remote Developer /Technical Writer? Hit me up!
 
